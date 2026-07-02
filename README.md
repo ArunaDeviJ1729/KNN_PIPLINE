@@ -188,9 +188,4 @@ Through this project, I learned:
 - Building an end-to-end machine learning workflow
 
 
-
-
-
-Aspiring Software Engineer | Machine Learning Enthusiast
-
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/ArunaDeviJ1729/KNN_PIPLINE.git
